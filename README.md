@@ -18,4 +18,4 @@ Good Lock and Have fun!
 
 SCII-Scene-Switcher XTD by <Zelos>Elsen#21441
 
-https://www.twitch.tv/elsen1337
+https://www.twitch.tv/elsen1337/about
