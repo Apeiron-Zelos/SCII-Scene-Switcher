@@ -16,4 +16,6 @@ After that just restart OBS-Studio and select SC2 Scene Switcher XTD under "Tool
 
 Good Lock and Have fun!
 
-SCII-SceneSwitcher-XTD by <Zelos>Elsen
+SCII-SceneSwitcher-XTD by <Zelos>Elsen#21441
+
+https://www.twitch.tv/elsen1337
