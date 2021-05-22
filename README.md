@@ -1,8 +1,7 @@
 # SCII-Scene-Switcher
 
-Einbindung erfolgt durch Einfügen der .dll-Datei in folgenden Ordner:
+Integration is done by inserting the .dll file into the following folder:
 
 ...\obs-studio\obs-plugins\64bit
 
-Danach einfach OBS-Studio neu starten und unter Werkzeuge (Tools) SC2 Scene Switcher XTD anwählen! 
-Viel Spaß!
+After that just restart OBS-Studio and select SC2 Scene Switcher XTD under "Tools" on OBS! Have fun!
