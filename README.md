@@ -1,4 +1,4 @@
-# SCII-Scene-Switcher
+# SCII-Scene-Switcher by elsen1337
 
 Einbindung erfolgt durch Einfügen der .dll-Datei in folgenden Ordner:
 
